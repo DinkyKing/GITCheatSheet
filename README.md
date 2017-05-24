@@ -3,12 +3,19 @@ Josh's Cheat sheet for Git
 
 ---
 cd (Change directory)
+
 pwd (Print working directory)
+
 mkdir (make a directory)
+
 ls -la (list all including invisables)
+
 cd .. (Go up)
+
 cd / (Up to the top)
+
 cd name ( go to)
+
 ---
 git add . -vvv (Adds everything)
 
