@@ -29,3 +29,7 @@ git log (Check the log)
 
 git stash (If you forget to pull after you have done work)
 
+git clone url (Clone the git to local)
+
+git pull url (Grab all the new work)
+
