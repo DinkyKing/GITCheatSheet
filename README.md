@@ -27,3 +27,5 @@ git status (check if your up to date)
 
 git log (Check the log)
 
+git stash (If you forget to pull after you have done work)
+
